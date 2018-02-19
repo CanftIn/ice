@@ -1,0 +1,15 @@
+E:\2018\ice\ice\bin\Debug\ice.exe.config
+E:\2018\ice\ice\bin\Debug\ice.exe
+E:\2018\ice\ice\bin\Debug\ice.pdb
+E:\2018\ice\ice\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\2018\ice\ice\obj\Debug\ice.csprojResolveAssemblyReference.cache
+E:\2018\ice\ice\obj\Debug\ice.AboutForm.resources
+E:\2018\ice\ice\obj\Debug\ice.DocumentForm.resources
+E:\2018\ice\ice\obj\Debug\ice.MainForm.resources
+E:\2018\ice\ice\obj\Debug\ice.Properties.Resources.resources
+E:\2018\ice\ice\obj\Debug\ice.Resource.resources
+E:\2018\ice\ice\obj\Debug\ice.csproj.GenerateResource.Cache
+E:\2018\ice\ice\obj\Debug\ice.csproj.CoreCompileInputs.cache
+E:\2018\ice\ice\obj\Debug\ice.exe
+E:\2018\ice\ice\obj\Debug\ice.pdb
+E:\2018\ice\ice\obj\Debug\ice.PaintForm.resources

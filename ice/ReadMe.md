@@ -1,0 +1,14 @@
+- [ ] block := { statement_list } | statement
+- [x] statement_list := statement_list statement | ε
+- [x] statement := assignment | call | for_statement
+- [x] assignment := <symbol> is <expression>;
+- [ ] call := <symbol> ( <arg_list> );
+- [ ] for_statement := for <symbol> from <expression> to <expression> step <expression> <block>
+- [ ] expression := <expression> + <term_expression> | <expression> - <term_expression> | <term_expression>
+- [ ] term_expression := <term_expression> * <sub_expression> | <term_expression> / <sub_expression> | <power_expression>
+- [ ] power_expression := <sub_expression> ** <unary_expression> | <unary_expression>
+- [ ] unary_expression := - <atom_expression> | <atom_expression>
+- [ ] atom_expression :=  ( <bracket_expression> ) | <call_expression> | <digit_literal> | <symbol>
+- [ ] call_expression := <symbol> ( <arg_list> )
+- [ ] arg_list := arg_list, expression | expression
+- [ ] bracket_expression := bracket_expression , expression | expression- [ ] 

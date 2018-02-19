@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ice", "ice\ice.csproj", "{BE1DF1B1-A5E3-4E11-AE4E-0377E0542EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE1DF1B1-A5E3-4E11-AE4E-0377E0542EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1DF1B1-A5E3-4E11-AE4E-0377E0542EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1DF1B1-A5E3-4E11-AE4E-0377E0542EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1DF1B1-A5E3-4E11-AE4E-0377E0542EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AAA6217-CAC9-465D-AAE7-6D2014A4BFFA}
+	EndGlobalSection
+EndGlobal
